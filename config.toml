@@ -1,0 +1,5 @@
+baseURL = "http://roomfullaspies.com/eacls"
+languageCode = "en-us"
+title = "/E/A/C/L/S/"
+theme = "ananke"
+summaryLength = 1
