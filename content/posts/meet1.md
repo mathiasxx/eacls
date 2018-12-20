@@ -33,7 +33,7 @@ MK, Swans, Lunacy
 GT, Modest Mouse, Convenient Parking
 BW, Bukka White, The New 'Frisco Train
 KB, King Crimson, The Great Deceiver (*)
-TH, Asgeir, Higher
+TH, Talk Talk, Desire
 BL, Radiohead, 2+2=5
 
 # SCARY
