@@ -9,7 +9,7 @@ draft: false
 The meeting got started a little late. From the opening, insistent drive of
 *Lunacy* to the final spaced-out notes of *He Loved Him Madly* it was an exciting and
 memorable experience. The startling immediacy of *Convenient Parking* was proof
-that there is more to loud than mere volume. Or is just loud and louder? What
+that there is more to loud than mere volume. Or is it just loud and louder? What
 does *Knoxville Girl* say about the American psyche? Is there another song more
 casually brutal in its subject matter? The progrock delight that is *The Great
 Deceiver* reminded me of hours spent on subways and trains with **King Crimson**
