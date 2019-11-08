@@ -32,7 +32,7 @@ performed number from **Loretta Lynn and Conway Twitty**.
 
 The **Sebadoh** track isn't numbered but the sampled classical theme shows up
 throughout the album. The track we heard is most usually referenced as the
-interlude between Sexual Confusion and Three Times a Day. See [this Low Barlow
+interlude between Sexual Confusion and Three Times a Day. See [this Lou Barlow
 interview](https://indieethos.wordpress.com/2012/01/16/sebadohs-lou-barlow-talks-beginning-with-weed-forestin-soon-to-be-reissued-on-lp-an-indie-ethos-exclusive-part-1-of-2/)
 where he talks about not knowing what that classical sampled bit is. There is
 some speculation that it is Wagner, but surprisingly I was unable to find an
