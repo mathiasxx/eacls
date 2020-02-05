@@ -1,9 +1,10 @@
 ---
-title: "Meet3"
+title: "Meeting 2019Q3"
 date: 2019-07-17T20:00:00-04:00
 draft: false
 ---
 
+## SPATIAL EFFECT ~ UNDER TWO ~ TIGHT
 
 Meeting three started with the spooky, cathedral level reverb of **Hard On for
 Love**, wound it's way through a sick display from **Terminator X**, and ended up in

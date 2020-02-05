@@ -1,11 +1,11 @@
 ---
-title: "Meet4"
+title: "Meeting 2019Q4"
 date: 2019-11-05T20:00:00-05:00
 draft: false
 ---
 
 
-## LOFI ~ BEAUTIFUL ~ COMBOS (TWO OR MORE ARTISTS TOGETHER)
+## LOFI ~ BEAUTIFUL ~ COMBOS 
 
 _aka The Night We Took That Bevin Down_
 

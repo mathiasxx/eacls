@@ -1,8 +1,10 @@
 ---
-title: "Meet2"
+title: "Meeting 2019Q1"
 date: 2019-03-20T20:00:00-04:00
 draft: false
 ---
+
+## FEMALE VOX ~ POLITICAL ~ SAD
 
 Meeting two started with a double dose of the incredible vocals of Nina Simone.
 The *SAD* and *POLITICAL* categories, plus dark subject matter of **Strange
